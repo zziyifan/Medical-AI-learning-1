@@ -1,7 +1,7 @@
-,case,class
-0,COVID-19 (19).png,
-1,COVID-19 (20).png,
-2,NORMAL (20).png,
-3,NORMAL (19).png,
-4,Viral Pneumonia (20).png,
-5,Viral Pneumonia (19).png,
+case,class
+./multiclass/test/COVID-19 (19).png,2
+./multiclass/test/COVID-19 (20).png,2
+./multiclass/test/NORMAL (20).png,0
+./multiclass/test/NORMAL (19).png,2
+./multiclass/test/Viral Pneumonia (20).png,2
+./multiclass/test/Viral Pneumonia (19).png,2
