@@ -16,6 +16,9 @@ Udemy Course: Deep Learning with PyTorch for Medical Image Analysis (https://www
 Medical Segmentation Decathlon (http://medicaldecathlon.com/)
   (Data License: https://creativecommons.org/licenses/by-sa/4.0/)
 
+TorchIO (https://github.com/fepegar/torchio)
+
+
 (No Copyright Infringements Intended.
  Only for learning use.
  All credits go to the owner of each source code.
