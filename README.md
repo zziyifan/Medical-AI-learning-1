@@ -18,6 +18,7 @@ Medical Segmentation Decathlon (http://medicaldecathlon.com/)
 
 TorchIO (https://github.com/fepegar/torchio)
 
+Project MONAI (https://github.com/Project-MONAI)
 
 (No Copyright Infringements Intended.
  Only for learning use.
