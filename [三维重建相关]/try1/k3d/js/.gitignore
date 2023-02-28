@@ -1,0 +1,6 @@
+/app/test/assets/Lato-Regular.ttf
+/app/test/results/*
+/dev
+/doc
+/node_modules
+dist/webpack-statistics.html
