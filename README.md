@@ -20,6 +20,8 @@ TorchIO (https://github.com/fepegar/torchio)
 
 Project MONAI (https://github.com/Project-MONAI)
 
+K3D (https://github.com/K3D-tools/K3D-jupyter)
+
 (No Copyright Infringements Intended.
  Only for learning use.
  All credits go to the owner of each source code.
