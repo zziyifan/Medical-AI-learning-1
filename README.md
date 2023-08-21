@@ -1,7 +1,7 @@
 # Medical-AI-learning-1
 Learning Notes【小白向】
 
-有的仓库还不完整，更新中。。。
+有的仓库还不完整，目前不搞这个了，暂停更新。。。
 
 ### References/certain parts forked from：
 
